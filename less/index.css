@@ -13,3 +13,9 @@ h1:nth-of-type(5) {
   font-size: 16px;
   font-family: 'Courier New', Courier, monospace;
 }
+h1:nth-of-type(6) {
+  background-color: #b88c14;
+  color: #de878e;
+  font-size: 16px;
+  font-family: 'Courier New', Courier, monospace;
+}
